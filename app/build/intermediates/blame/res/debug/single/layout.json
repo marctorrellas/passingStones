@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/build/intermediates/res/merged/debug/layout/first_page.xml",
+        "source": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/layout/first_page.xml"
+    },
+    {
+        "merged": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/build/intermediates/res/merged/debug/layout/test_layout.xml",
+        "source": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/layout/test_layout.xml"
+    },
+    {
+        "merged": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/layout/activity_main.xml"
+    }
+]

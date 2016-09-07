@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="APP_NAME">Passing Stones</string>
+    <string name="HELLO_WORLD">Hello world!</string>
+    <string name="MENU_SETTINGS">Settings</string>
+    <string name="TITLE_ACTIVITY_MAIN">Main</string>
+    <string name="BUTTON">Button</string>
+    <string name="SPACES">"                                             "</string>
+    <string name="COLOR_0">blue</string>
+    <string name="COLOR_1">red</string>
+    <string name="COLOR_2">yellow</string>
+    <string name="COLOR_0_POTS">blue</string>
+    <string name="COLOR_1_POTS">red</string>
+    <string name="COLOR_2_POTS">yellow</string>
+    <string name="WELCOME">Welcome\nSelect the number of stones to begin with</string>
+    <string name="MENU_BUTTON">Begin the game!</string>
+    <string name="START_MESSAGE">"Game started, it is the turn of player "</string>
+    <string name="NO_NEUTRAL">These pots cannot be emptied</string>
+    <string name="NO_TURN">It\'s not your turn</string>
+    <string name="TURN">Turn: </string>
+    <string name="NO_STONES">Select a non-empty pot</string>
+    <string name="GAME_END">"This is the end, and the winner is player "</string>
+    <string name="IF_NEW_GAME">Go back to start a new game</string>
+    
+
+</resources>

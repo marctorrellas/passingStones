@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center"
+    android:background="@drawable/bg"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/rel_lay1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center" >
+
+
+        <TextView
+            android:id="@+id/TextView24"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="none"
+            android:paddingLeft="20dp"
+            android:text="0"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#f50" />
+
+        <ImageButton
+            android:id="@+id/pot24"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#00ffffff"
+            android:contentDescription="@string/HELLO_WORLD"
+            android:paddingBottom="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="20dp"
+            android:src="@drawable/pot4_red"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/TextView23"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="none"
+            android:paddingLeft="20dp"
+            android:text="0"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#f50" />
+
+        <ImageButton
+            android:id="@+id/pot23"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:contentDescription="@string/HELLO_WORLD"
+            android:paddingBottom="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="20dp"
+            android:src="@drawable/pot4_red" />
+
+        <TextView
+            android:id="@+id/TextView22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="none"
+            android:paddingLeft="20dp"
+            android:text="0"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#f50" />
+
+        <ImageButton
+            android:id="@+id/pot22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:contentDescription="@string/HELLO_WORLD"
+            android:ellipsize="none"
+            android:paddingBottom="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="20dp"
+            android:src="@drawable/pot4_red" />
+
+        <TextView
+            android:id="@+id/TextView21"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="none"
+            android:paddingLeft="20dp"
+            android:text="0"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#f50" />
+
+        <ImageButton
+            android:id="@+id/pot21"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:contentDescription="@string/HELLO_WORLD"
+            android:paddingBottom="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="20dp"
+            android:src="@drawable/pot4_red" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/rel_lay2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:baselineAligned="false" >
+
+        <LinearLayout
+            android:id="@+id/LinearLayout2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.82"
+            android:contentDescription="@string/HELLO_WORLD"
+            android:orientation="horizontal" >
+
+
+
+            <TextView
+                android:id="@+id/TextView10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="none"
+                android:paddingLeft="40dp"
+                android:text="0"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#f50" />
+
+
+
+
+            <ImageButton
+                android:id="@+id/pot10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:contentDescription="@string/HELLO_WORLD"
+                android:src="@drawable/pot0_blue" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="265dp"
+            android:layout_height="match_parent"
+            android:contentDescription="@string/HELLO_WORLD"
+            android:gravity="right"
+            android:orientation="horizontal" >
+
+
+
+
+            <ImageButton
+                android:id="@+id/pot20"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:contentDescription="@string/HELLO_WORLD"
+                android:src="@drawable/pot0_blue" />
+
+
+            <TextView
+                android:id="@+id/TextView20"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingRight="40dp"
+                android:text="0"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#f50" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/rel_lay3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/HELLO_WORLD"
+        android:gravity="center" >
+
+        <ImageButton
+            android:id="@+id/pot11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:contentDescription="@string/HELLO_WORLD"
+            android:paddingBottom="20dp"
+            android:paddingLeft="20dp"
+            android:paddingTop="20dp"
+            android:src="@drawable/pot4_red" />
+
+        <TextView
+            android:id="@+id/TextView11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="none"
+            android:paddingRight="20dp"
+            android:text="0"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#f50" />
+
+        <ImageButton
+            android:id="@+id/pot12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:contentDescription="@string/HELLO_WORLD"
+            android:paddingBottom="20dp"
+            android:paddingLeft="20dp"
+            android:paddingTop="20dp"
+            android:src="@drawable/pot4_red" />
+
+        <TextView
+            android:id="@+id/TextView12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="none"
+            android:paddingRight="20dp"
+            android:text="0"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#f50" />
+
+        <ImageButton
+            android:id="@+id/pot13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:contentDescription="@string/HELLO_WORLD"
+            android:paddingBottom="20dp"
+            android:paddingLeft="20dp"
+            android:paddingTop="20dp"
+            android:src="@drawable/pot4_red" />
+
+        <TextView
+            android:id="@+id/TextView13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="none"
+            android:paddingRight="20dp"
+            android:text="0"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#f50" />
+
+        <ImageButton
+            android:id="@+id/pot14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:contentDescription="@string/HELLO_WORLD"
+            android:paddingBottom="20dp"
+            android:paddingLeft="20dp"
+            android:paddingTop="20dp"
+            android:src="@drawable/pot4_red" />
+
+        <TextView
+            android:id="@+id/TextView14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="none"
+            android:paddingRight="20dp"
+            android:text="0"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#f50" />
+    </LinearLayout>
+
+</LinearLayout>

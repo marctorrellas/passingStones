@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APP_NAME">Passa piedras</string>
+    <string name="HELLO_WORLD">Hello world!</string>
+    <string name="MENU_SETTINGS">Settings</string>
+    <string name="TITLE_ACTIVITY_MAIN">Main</string>
+    <string name="BUTTON">Button</string>
+    <string name="SPACES">"                                             "</string>
+    <string name="COLOR_0">azul</string>
+    <string name="COLOR_1">rojo</string>
+    <string name="COLOR_2">amarillo</string>
+    <string name="COLOR_0_POTS">blau</string>
+    <string name="COLOR_1_POTS">vermell</string>
+    <string name="COLOR_2_POTS">groc</string>
+    <string name="WELCOME">Bienvenidos\nSeleccionad cuántas piedras tendrán los cuencos iniciales</string>
+    <string name="MENU_BUTTON">Empieza la partida!</string>
+    <string name="START_MESSAGE">"Inicio del juego, empieza el jugador "</string>
+    <string name="NO_NEUTRAL">Estos cuencos no se pueden vaciar</string>
+    <string name="NO_TURN">No es tu turno</string>
+    <string name="TURN">Turno: </string>
+    <string name="NO_STONES">Vacía un cuenco que tenga piedras</string>
+    <string name="GAME_END">Juego finalizado, ganó el jugador </string>
+    <string name="IF_NEW_GAME">Presiona el botón atrás para iniciar una nueva partida</string>
+</resources>
