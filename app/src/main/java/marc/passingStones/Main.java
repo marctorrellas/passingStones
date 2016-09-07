@@ -218,7 +218,7 @@ public class Main extends Activity {
 			float scaleY = totalY / mBG.getHeight();
 			canvas.scale(scaleX,scaleY);  // scale the canvas so that mBG occupies all screen
 
-			canvas.drawBitmap(mBG,0,0,null);
+			canvas.drawBitmap(mBG,0,0,null); 
 
 			canvas.restore();
 
