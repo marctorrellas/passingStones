@@ -24,10 +24,6 @@
         "source": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/drawable-hdpi/pot0_red.gif"
     },
     {
-        "merged": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pot3_vermell.gif",
-        "source": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/drawable-hdpi/pot3_vermell.gif"
-    },
-    {
         "merged": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bag.png",
         "source": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/drawable-hdpi/bag.png"
     },
@@ -38,6 +34,10 @@
     {
         "merged": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
         "source": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pot3_red.gif",
+        "source": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/drawable-hdpi/pot3_red.gif"
     },
     {
         "merged": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pot1_blue.gif",

@@ -30,7 +30,14 @@
                     "endOffset": 142
                 },
                 "from": {
-                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml"
+                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 224,
+                        "endColumn": 41,
+                        "endOffset": 261
+                    }
                 }
             },
             {
@@ -42,7 +49,14 @@
                     "endOffset": 183
                 },
                 "from": {
-                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml"
+                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 349,
+                        "endColumn": 40,
+                        "endOffset": 385
+                    }
                 }
             },
             {
@@ -54,7 +68,14 @@
                     "endOffset": 229
                 },
                 "from": {
-                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml"
+                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 475,
+                        "endColumn": 45,
+                        "endOffset": 516
+                    }
                 }
             },
             {
@@ -66,7 +87,14 @@
                     "endOffset": 273
                 },
                 "from": {
-                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml"
+                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 390,
+                        "endColumn": 43,
+                        "endOffset": 429
+                    }
                 }
             },
             {
@@ -78,7 +106,14 @@
                     "endOffset": 322
                 },
                 "from": {
-                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml"
+                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 521,
+                        "endColumn": 48,
+                        "endOffset": 565
+                    }
                 }
             },
             {
@@ -90,7 +125,14 @@
                     "endOffset": 363
                 },
                 "from": {
-                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml"
+                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 434,
+                        "endColumn": 40,
+                        "endOffset": 470
+                    }
                 }
             },
             {
@@ -102,7 +144,14 @@
                     "endOffset": 409
                 },
                 "from": {
-                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml"
+                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 570,
+                        "endColumn": 45,
+                        "endOffset": 611
+                    }
                 }
             },
             {
@@ -114,7 +163,14 @@
                     "endOffset": 487
                 },
                 "from": {
-                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml"
+                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1087,
+                        "endColumn": 77,
+                        "endOffset": 1160
+                    }
                 }
             },
             {
@@ -126,7 +182,14 @@
                     "endOffset": 540
                 },
                 "from": {
-                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml"
+                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 67,
+                        "endColumn": 52,
+                        "endOffset": 115
+                    }
                 }
             },
             {
@@ -138,7 +201,14 @@
                     "endOffset": 622
                 },
                 "from": {
-                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml"
+                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1165,
+                        "endColumn": 81,
+                        "endOffset": 1242
+                    }
                 }
             },
             {
@@ -150,7 +220,14 @@
                     "endOffset": 682
                 },
                 "from": {
-                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml"
+                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 712,
+                        "endColumn": 59,
+                        "endOffset": 767
+                    }
                 }
             },
             {
@@ -162,7 +239,14 @@
                     "endOffset": 733
                 },
                 "from": {
-                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml"
+                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 120,
+                        "endColumn": 50,
+                        "endOffset": 166
+                    }
                 }
             },
             {
@@ -174,7 +258,14 @@
                     "endOffset": 804
                 },
                 "from": {
-                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml"
+                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 853,
+                        "endColumn": 70,
+                        "endOffset": 919
+                    }
                 }
             },
             {
@@ -186,7 +277,14 @@
                     "endOffset": 873
                 },
                 "from": {
-                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml"
+                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1018,
+                        "endColumn": 68,
+                        "endOffset": 1082
+                    }
                 }
             },
             {
@@ -198,7 +296,14 @@
                     "endOffset": 927
                 },
                 "from": {
-                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml"
+                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 924,
+                        "endColumn": 53,
+                        "endOffset": 973
+                    }
                 }
             },
             {
@@ -210,7 +315,14 @@
                     "endOffset": 1010
                 },
                 "from": {
-                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml"
+                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 82,
+                        "endOffset": 344
+                    }
                 }
             },
             {
@@ -222,7 +334,14 @@
                     "endOffset": 1091
                 },
                 "from": {
-                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml"
+                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 772,
+                        "endColumn": 80,
+                        "endOffset": 848
+                    }
                 }
             },
             {
@@ -234,7 +353,14 @@
                     "endOffset": 1144
                 },
                 "from": {
-                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml"
+                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 171,
+                        "endColumn": 52,
+                        "endOffset": 219
+                    }
                 }
             },
             {
@@ -246,7 +372,14 @@
                     "endOffset": 1184
                 },
                 "from": {
-                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml"
+                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 978,
+                        "endColumn": 39,
+                        "endOffset": 1013
+                    }
                 }
             },
             {
@@ -258,7 +391,14 @@
                     "endOffset": 1280
                 },
                 "from": {
-                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml"
+                    "file": "/Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/res/values-ca/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 616,
+                        "endColumn": 95,
+                        "endOffset": 707
+                    }
                 }
             }
         ]

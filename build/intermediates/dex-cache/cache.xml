@@ -1,2 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/marctorrellassocastro/StudioProjects/passingStones/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/18.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="dafab6ae358e6c801605d50ff1fa761e77200c1a">
+        <dex dex="/Users/marctorrellassocastro/StudioProjects/passingStones/app/build/intermediates/pre-dexed/release/com.android.support-gridlayout-v7-18.0.0_6a2d1bf471aaa0bc354764d1afc90299194e2056.jar" />
+    </item>
+    <item
+        jar="/Users/marctorrellassocastro/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/marctorrellassocastro/StudioProjects/passingStones/app/build/intermediates/pre-dexed/release/support-v4-18.0.0_f1b04880bc854a303ccf5eb11c0d750a183930fa.jar" />
+    </item>
+
+</items>

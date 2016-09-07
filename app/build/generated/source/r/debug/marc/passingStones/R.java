@@ -166,7 +166,7 @@ containing a value of this type.
         public static final int pot2_red=0x7f02000d;
         public static final int pot2_yellow=0x7f02000e;
         public static final int pot3_blue=0x7f02000f;
-        public static final int pot3_vermell=0x7f020010;
+        public static final int pot3_red=0x7f020010;
         public static final int pot3_yellow=0x7f020011;
         public static final int pot4_blue=0x7f020012;
         public static final int pot4_red=0x7f020013;
