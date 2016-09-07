@@ -36,7 +36,7 @@ MERGED from [com.android.support:gridlayout-v7:18.0.0] /Users/marctorrellassocas
 	android:allowBackup
 		ADDED from /Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/AndroidManifest.xml:11:9-35
 	android:icon
-		ADDED from /Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/AndroidManifest.xml:13:9-45
+		ADDED from /Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/AndroidManifest.xml:13:9-37
 	android:theme
 		ADDED from /Users/marctorrellassocastro/StudioProjects/passingStones/app/src/main/AndroidManifest.xml:15:9-40
 activity#marc.passingStones.Menu

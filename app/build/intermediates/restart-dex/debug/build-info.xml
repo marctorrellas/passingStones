@@ -4,40 +4,32 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="68531316383379"
-    token="-2435194043639446944"
-    verifier="METHOD_DELETED" >
+    timestamp="71702676385047"
+    token="-2435194043639446944" >
 
     <task
         name="javac"
-        duration="433" />
+        duration="254" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="134" />
+        duration="63" />
     <task
         name="verifier"
-        duration="17" />
+        duration="6" />
 
     <artifact
         location="/Users/marctorrellassocastro/StudioProjects/passingStones/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
         type="DEX" />
 
-    <build timestamp="66214224770180" >
+    <build timestamp="71350446513913" >
         <artifact
             location="/Users/marctorrellassocastro/StudioProjects/passingStones/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="66500104860607" >
-        <artifact
-            location="/Users/marctorrellassocastro/StudioProjects/passingStones/app/build/intermediates/res/resources-debug.ap_"
-            type="RESOURCES" />
-    </build>
-    <build
-        timestamp="68531316383379"
-        verifier="METHOD_DELETED" >
+    <build timestamp="71702676385047" >
         <artifact
             location="/Users/marctorrellassocastro/StudioProjects/passingStones/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
             type="DEX" />

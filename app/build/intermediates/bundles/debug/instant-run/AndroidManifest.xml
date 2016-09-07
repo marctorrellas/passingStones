@@ -11,7 +11,7 @@
     <application
         android:name="com.android.tools.fd.runtime.BootstrapApplication"
         android:allowBackup="true"
-        android:icon="@drawable/ic_launcher"
+        android:icon="@drawable/bag"
         android:label="@string/APP_NAME"
         android:screenOrientation="landscape"
         android:theme="@style/AppTheme" >

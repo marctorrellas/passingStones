@@ -1,7 +1,5 @@
 package marc.passingStones;
 
-import java.util.Random;
-
 import android.app.Activity;
 import android.content.Context;
 import android.content.pm.ActivityInfo;
@@ -21,15 +19,21 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.widget.Toast;
 
-// control+shift+o  importa i treu els que calen i no calen
-// control+d elimina la linea on estas
-// control+space autocompletar
-// control+h buscar en todo el proyecto
+import java.util.Random;
+
+// Android Studio nice shortcuts
+// command+d duplicate current line
+// command+space autocomplete
+// shit+f6 refractor-rename
+// control+alt+o organize imports
+// control+alt+i smart indent
+// command+R replace (+shit replace in entire path)
+
 
 public class Main extends Activity {
 
 	public static final float V = 9;
-	private Pot[][] pots= new Pot[2][5];;
+	private Pot[][] pots= new Pot[2][5];
 	public int initialStones =2;
 	private static int[] idColors={R.string.COLOR_0,R.string.COLOR_1,R.string.COLOR_2};
 	private static int[] idColorsPots={R.string.COLOR_0_POTS,R.string.COLOR_1_POTS,R.string.COLOR_2_POTS};
@@ -256,12 +260,11 @@ public class Main extends Activity {
 		public int[] searchPot(float posX, float posY){
 
 			double minDist = Math.pow(bitmapPot[0][0].getWidth(),2)/3.5;
-			double dist = 0;
 			int[] x={10,10};
 
 			for(int j=0;j<2;j++){
 				for(int p=0;p<5;p++){
-					dist = Math.pow( pots[j][p].getX()-posX,2)+Math.pow( pots[j][p].getY()-posY,2);
+					double dist = Math.pow( pots[j][p].getX()-posX,2)+Math.pow( pots[j][p].getY()-posY,2);
 					if(dist<minDist){
 						x[0]=j; x[1]=p; //minDist = dist;
 					}
